@@ -1,4 +1,5 @@
 // https://adventofcode.com/2018/day/1
+// part 1
 
 import { readFileSync } from 'fs';
 

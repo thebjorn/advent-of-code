@@ -1,4 +1,5 @@
 # https://adventofcode.com/2023/day/1
+# part 1
 
 def first_digit(line):
     for c in line:
